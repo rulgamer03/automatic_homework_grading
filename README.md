@@ -47,8 +47,11 @@ Now you compile and execute the Autograde.py, this program do these files:
 
 ## Grade method
 60 % Homework 1 2 and 3
+
 40 % Exam 1 and 2
+
 10 % Final Homework (extra points)
+
 ## References
 https://pythonbasics.org/write-excel/
 https://www.youtube.com/watch?v=OzTCzucnD3c
