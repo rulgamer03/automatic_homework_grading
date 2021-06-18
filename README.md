@@ -49,6 +49,8 @@ I take 9.3 - 10 seconds to grade 1 student (with all their homeworks), using onl
 
 I take 17.5 - 18.2 seconds to grade 2 student (with all their homeworks), using only 7 folders, if you add more files or directories you take more time
 
+I take 26.4 - 27.1 seconds to grade 2 student (with all their homeworks), using only 7 folders, if you add more files or directories you take more time
+
 ## Grade method
 60 % Homework 1 2 and 3
 
