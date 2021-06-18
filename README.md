@@ -12,3 +12,12 @@ First you need a directory with the program Autograde.py and an excel file ("Lis
 Nombre del Alumno | Matricula 
 --- | --- 
 ANGEL RAUL CHAVEZ CARRILLO| 1234567 
+
+You make these subdirectories:
+* V6_Exam1
+* V6_Exam2
+* V6_ExtraordinaryExam
+* V6_FinalHomework
+* V6_Homework1
+* V6_Homework2
+* V6_Homework3
