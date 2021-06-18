@@ -22,7 +22,7 @@ You make these subdirectories:
 * V6_Homework2
 * V6_Homework3
 
-In each subdirectory you save the files of students homeworks in pdf files using this format **("chavez_carrillo_angel_raul_1234567_V6.pdf")** don't use these characters: á, é, í, ó  and ú in the file name, to scan the homeworks using camscanner, to grade the homeworks you can use any pdf editor [Example](https://www.ilovepdf.com/es/editar-pdf), adding this text in the first page **Calificacion 100
+In each subdirectory you save the files of students homeworks in pdf files using this format **("chavez_carrillo_angel_raul_1234567_V6.pdf")** don't use these characters: á, é, í, ó  and ú in the file name, to scan the homeworks using camscanner, to grade the homeworks you can use any pdf editor [ilovepdf](https://www.ilovepdf.com/es/editar-pdf), adding this text in the first page **Calificacion 100
 Matricula 1234567**
 
 Now you compile and execute the Autograde.py, this program do these files:
