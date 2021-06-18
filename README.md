@@ -3,6 +3,7 @@
 
 ## Table of Contents
 * [How to use](#How-to-use)
+* [Grade method](#Grade-method)
 * [References](#References)
 <!-- * [License](#license) -->
 
@@ -44,6 +45,10 @@ Now you compile and execute the Autograde.py, this program do these files:
 * final_gradesN3_Gpo039.xlsx
 * final_gradesV6_Gpo032.xlsx
 
+## Grade method
+60 % Homework 1 2 and 3
+40 % Exam 1 and 2
+10 % Final Homework (extra points)
 ## References
 https://pythonbasics.org/write-excel/
 https://www.youtube.com/watch?v=OzTCzucnD3c
