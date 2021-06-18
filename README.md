@@ -15,6 +15,7 @@ pip install fitz
 
 ```sh
 pip install pandas
+```
 
 ```sh
 pip install openpyxl
