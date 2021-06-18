@@ -8,11 +8,11 @@
 
 ## How to use
 Download these Python Libraries
-> pip install fitz
-> 
-> pip install pandas
-> 
-> pip install openpyxl
+
+.. code-block:: bash
+  pip install fitz
+  pip install pandas
+  pip install openpyxl
 
 
 First you need a directory with the program Autograde.py and an excel file **("Lista de Alumnos Fisica III PERIODO Febrero_Junio_2021 Viernes_Final (1).xlsx")** with the names of the students **("Nombre del Alumno")** and their id number **("Matricula")**, you do a sheet for each group, examples: "V6 - Gpo 032" "N1 - Gpo 033" "N3 - Gpo 039"
